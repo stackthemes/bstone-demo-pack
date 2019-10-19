@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.6" created="2018-06-30 13:56" -->
+	<!-- generator="WordPress/5.2.4" created="2019-10-19 06:22" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,98 +27,98 @@
 
 <channel>
 	<title>Bstone Blog</title>
-	<link>http://stackthemesdemo.com/themes/bstone/bst-blog</link>
+	<link>https://stackthemesdemo.com/themes/bstone/bst-blog</link>
 	<description>Lifestyle</description>
-	<pubDate>Sat, 30 Jun 2018 13:56:43 +0000</pubDate>
+	<pubDate>Sat, 19 Oct 2019 06:22:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://stackthemesdemo.com/themes/bstone/</wp:base_site_url>
-	<wp:base_blog_url>http://stackthemesdemo.com/themes/bstone/bst-blog</wp:base_blog_url>
+	<wp:base_blog_url>https://stackthemesdemo.com/themes/bstone/bst-blog</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[arick]]></wp:author_login><wp:author_email><![CDATA[nasir.ist@hotmail.com]]></wp:author_email><wp:author_display_name><![CDATA[arick]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[arick]]></wp:author_login><wp:author_email><![CDATA[nasir.ist@hotmail.com]]></wp:author_email><wp:author_display_name><![CDATA[arick]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>2</wp:term_id>
 		<wp:category_nicename><![CDATA[entertainment]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Entertainment]]></wp:cat_name>
 	</wp:category>
-	<wp:category>
+		<wp:category>
 		<wp:term_id>3</wp:term_id>
 		<wp:category_nicename><![CDATA[lifestyle]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Lifestyle]]></wp:cat_name>
 	</wp:category>
-	<wp:category>
+		<wp:category>
 		<wp:term_id>4</wp:term_id>
 		<wp:category_nicename><![CDATA[travel]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Travel]]></wp:cat_name>
 	</wp:category>
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:tag>
+			<wp:tag>
 		<wp:term_id>11</wp:term_id>
 		<wp:tag_slug><![CDATA[boat-trip]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Boat Trip]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>12</wp:term_id>
 		<wp:tag_slug><![CDATA[desert]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Desert]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>5</wp:term_id>
 		<wp:tag_slug><![CDATA[entertainment]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Entertainment]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>15</wp:term_id>
 		<wp:tag_slug><![CDATA[evening]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Evening]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>6</wp:term_id>
 		<wp:tag_slug><![CDATA[lifestyle]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[lifestyle]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>14</wp:term_id>
 		<wp:tag_slug><![CDATA[rio-de-janeiro]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Rio de Janeiro]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>10</wp:term_id>
 		<wp:tag_slug><![CDATA[sea-view]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Sea View]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>7</wp:term_id>
 		<wp:tag_slug><![CDATA[snow]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[snow]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>8</wp:term_id>
 		<wp:tag_slug><![CDATA[travel]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Travel]]></wp:tag_name>
 	</wp:tag>
-	<wp:tag>
+		<wp:tag>
 		<wp:term_id>13</wp:term_id>
 		<wp:tag_slug><![CDATA[winter-outdoor]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Winter Outdoor]]></wp:tag_name>
 	</wp:tag>
-	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu-1]]></wp:term_slug><wp:term_name><![CDATA[Menu 1]]></wp:term_name>
+				<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu-1]]></wp:term_slug><wp:term_name><![CDATA[Menu 1]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
 
-	<item>
+		<item>
 		<title>bst-blog-logo-white</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/bst-blog-logo-white/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/bst-blog-logo-white/</link>
 		<pubDate>Mon, 21 May 2018 10:32:16 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/05/bst-blog-logo-white.png</guid>
@@ -137,19 +137,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/bst-blog-logo-white.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/bst-blog-logo-white.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/bst-blog-logo-white.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/05/bst-blog-logo-white.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:156;s:4:"file";s:31:"2018/05/bst-blog-logo-white.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"bst-blog-logo-white-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:30:"bst-blog-logo-white-300x78.png";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:156;s:4:"file";s:31:"2018/05/bst-blog-logo-white.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"bst-blog-logo-white-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:30:"bst-blog-logo-white-300x78.png";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>bst-blog-logo</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/bst-blog-logo/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/bst-blog-logo/</link>
 		<pubDate>Mon, 21 May 2018 10:32:18 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/05/bst-blog-logo.png</guid>
@@ -168,19 +168,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/bst-blog-logo.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/bst-blog-logo.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/bst-blog-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/05/bst-blog-logo.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:156;s:4:"file";s:25:"2018/05/bst-blog-logo.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"bst-blog-logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:24:"bst-blog-logo-300x78.png";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:156;s:4:"file";s:25:"2018/05/bst-blog-logo.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"bst-blog-logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:24:"bst-blog-logo-300x78.png";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>1</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/golden-snow-land/attachment/1/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/golden-snow-land/attachment/1/</link>
 		<pubDate>Mon, 21 May 2018 11:23:06 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/04/1.jpeg</guid>
@@ -199,19 +199,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/1.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/1.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/1.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2001;s:6:"height";i:1293;s:4:"file";s:14:"2018/04/1.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"1-300x194.jpeg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:14:"1-768x496.jpeg";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"1-1024x662.jpeg";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:14:"1-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:15:"1-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:15:"1-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:15:"1-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"3.5";s:6:"credit";s:14:"@eberhardgross";s:6:"camera";s:13:"Canon EOS 70D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497165637";s:9:"copyright";s:9:"copyright";s:12:"focal_length";s:2:"10";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:17:"0.033333333333333";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2001;s:6:"height";i:1293;s:4:"file";s:14:"2018/04/1.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"1-300x194.jpeg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:14:"1-768x496.jpeg";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"1-1024x662.jpeg";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:14:"1-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:15:"1-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:15:"1-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:15:"1-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"3.5";s:6:"credit";s:14:"@eberhardgross";s:6:"camera";s:13:"Canon EOS 70D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497165637";s:9:"copyright";s:9:"copyright";s:12:"focal_length";s:2:"10";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:17:"0.033333333333333";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>3</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-music-became-the-love-of-my-life/attachment/3/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-music-became-the-love-of-my-life/attachment/3/</link>
 		<pubDate>Mon, 21 May 2018 11:23:26 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/04/3.jpg</guid>
@@ -230,19 +230,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/3.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/3.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:13:"2018/04/3.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"3-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"3-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"3-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"3-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:13:"2018/04/3.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"3-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"3-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"3-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"3-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>4</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-an-island-forms-in-river/attachment/4/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-an-island-forms-in-river/attachment/4/</link>
 		<pubDate>Mon, 21 May 2018 11:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/04/4.jpg</guid>
@@ -261,19 +261,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/4.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/4.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3968;s:6:"height";i:2976;s:4:"file";s:13:"2018/04/4.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"4-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"4-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"4-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"4-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"4-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"4-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"4-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3968;s:6:"height";i:2976;s:4:"file";s:13:"2018/04/4.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"4-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"4-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"4-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"4-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"4-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"4-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"4-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>2</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/staying-somehow-patient/attachment/2/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/staying-somehow-patient/attachment/2/</link>
 		<pubDate>Mon, 21 May 2018 11:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/04/2.jpg</guid>
@@ -292,19 +292,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/2.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/2.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:13:"2018/04/2.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"2-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"2-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"2-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"2-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"2-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:13:"2018/04/2.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"2-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"2-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"2-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"2-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"2-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>5</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/24/going-with-the-flow/attachment/5/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/24/going-with-the-flow/attachment/5/</link>
 		<pubDate>Mon, 21 May 2018 11:25:31 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/04/5.jpg</guid>
@@ -323,19 +323,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/5.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/5.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/5.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/5.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:13:"2018/04/5.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"5-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"5-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"5-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"5-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"5-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:13:"2018/04/5.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"5-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"5-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"5-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"5-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"5-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>h-5</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/h-5/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/h-5/</link>
 		<pubDate>Wed, 23 May 2018 05:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/05/h-5.png</guid>
@@ -354,19 +354,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/h-5.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/h-5.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/h-5.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/05/h-5.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:139;s:6:"height";i:29;s:4:"file";s:15:"2018/05/h-5.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:139;s:6:"height";i:29;s:4:"file";s:15:"2018/05/h-5.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>6</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/6/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/6/</link>
 		<pubDate>Wed, 23 May 2018 10:09:11 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/05/6.jpg</guid>
@@ -385,19 +385,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/6.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/6.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/6.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/05/6.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:13:"2018/05/6.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"6-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"6-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"6-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"6-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"6-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"6-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"6-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:13:"2018/05/6.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"6-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"6-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"6-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:13:"6-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:14:"6-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:14:"6-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:14:"6-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>banner</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/banner/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/banner/</link>
 		<pubDate>Wed, 23 May 2018 11:56:37 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/wp-content/uploads/2018/05/banner.jpg</guid>
@@ -416,19 +416,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/banner.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/banner.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/05/banner.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/05/banner.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:306;s:6:"height";i:256;s:4:"file";s:18:"2018/05/banner.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"banner-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"banner-300x251.jpg";s:5:"width";i:300;s:6:"height";i:251;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:306;s:6:"height";i:256;s:4:"file";s:18:"2018/05/banner.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"banner-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"banner-300x251.jpg";s:5:"width";i:300;s:6:"height";i:251;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>line</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/line/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/line/</link>
 		<pubDate>Sat, 30 Jun 2018 09:06:00 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/line.jpg</guid>
@@ -447,19 +447,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/line.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/line.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/line.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/line.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:30;s:6:"height";i:2;s:4:"file";s:16:"2018/06/line.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:30;s:6:"height";i:2;s:4:"file";s:16:"2018/06/line.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>music</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-music-became-the-love-of-my-life/music/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-music-became-the-love-of-my-life/music/</link>
 		<pubDate>Sat, 30 Jun 2018 11:56:47 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/music.jpeg</guid>
@@ -478,19 +478,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/music.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/music.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/music.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/music.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:18:"2018/04/music.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"music-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"music-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:18:"music-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"music-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:18:"music-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:19:"music-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:19:"music-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:19:"music-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:18:"2018/04/music.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"music-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"music-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:18:"music-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"music-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:18:"music-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:19:"music-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:19:"music-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:19:"music-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>golden-snow</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/golden-snow-land/golden-snow/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/golden-snow-land/golden-snow/</link>
 		<pubDate>Sat, 30 Jun 2018 12:18:33 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/golden-snow.jpeg</guid>
@@ -509,19 +509,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/golden-snow.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/04/golden-snow.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/04/golden-snow.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/04/golden-snow.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1275;s:4:"file";s:24:"2018/04/golden-snow.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"golden-snow-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"golden-snow-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"golden-snow-768x510.jpeg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"golden-snow-1024x680.jpeg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:24:"golden-snow-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:25:"golden-snow-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:25:"golden-snow-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:25:"golden-snow-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1275;s:4:"file";s:24:"2018/04/golden-snow.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"golden-snow-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"golden-snow-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"golden-snow-768x510.jpeg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"golden-snow-1024x680.jpeg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:24:"golden-snow-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:25:"golden-snow-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:25:"golden-snow-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:25:"golden-snow-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>niagara-falls</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/the-great-niagara-falls/niagara-falls/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/the-great-niagara-falls/niagara-falls/</link>
 		<pubDate>Sat, 30 Jun 2018 12:23:09 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/niagara-falls.jpeg</guid>
@@ -540,19 +540,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/niagara-falls.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/niagara-falls.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/niagara-falls.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/niagara-falls.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1279;s:4:"file";s:26:"2018/06/niagara-falls.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"niagara-falls-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"niagara-falls-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"niagara-falls-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"niagara-falls-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:26:"niagara-falls-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:27:"niagara-falls-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:27:"niagara-falls-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:27:"niagara-falls-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1279;s:4:"file";s:26:"2018/06/niagara-falls.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"niagara-falls-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"niagara-falls-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"niagara-falls-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"niagara-falls-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:26:"niagara-falls-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:27:"niagara-falls-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:27:"niagara-falls-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:27:"niagara-falls-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>cliff-sunset-sea-view</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/cliff-sunset-sea-view/cliff-sunset-sea-view/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/cliff-sunset-sea-view/cliff-sunset-sea-view/</link>
 		<pubDate>Sat, 30 Jun 2018 13:06:50 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/cliff-sunset-sea-view.jpg</guid>
@@ -571,19 +571,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/cliff-sunset-sea-view.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/cliff-sunset-sea-view.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/cliff-sunset-sea-view.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/cliff-sunset-sea-view.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:33:"2018/06/cliff-sunset-sea-view.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:33:"2018/06/cliff-sunset-sea-view.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:33:"cliff-sunset-sea-view-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:34:"cliff-sunset-sea-view-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>boat-trip</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/boat-trip-to-mediterranean/boat-trip/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/boat-trip-to-mediterranean/boat-trip/</link>
 		<pubDate>Sat, 30 Jun 2018 13:18:45 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/boat-trip.jpeg</guid>
@@ -602,19 +602,23 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/boat-trip.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/boat-trip.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/boat-trip.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/boat-trip.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:22:"2018/06/boat-trip.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"boat-trip-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"boat-trip-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"boat-trip-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"boat-trip-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:22:"boat-trip-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:23:"boat-trip-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:23:"boat-trip-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:23:"boat-trip-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:22:"2018/06/boat-trip.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"boat-trip-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"boat-trip-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"boat-trip-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"boat-trip-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:22:"boat-trip-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:23:"boat-trip-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:23:"boat-trip-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:23:"boat-trip-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bstone]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>white-sand-of-the-desert</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/white-sand-of-the-desert/white-sand-of-the-desert/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/white-sand-of-the-desert/white-sand-of-the-desert/</link>
 		<pubDate>Sat, 30 Jun 2018 13:20:51 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/white-sand-of-the-desert.jpeg</guid>
@@ -633,19 +637,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/white-sand-of-the-desert.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/white-sand-of-the-desert.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/white-sand-of-the-desert.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/white-sand-of-the-desert.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1440;s:4:"file";s:37:"2018/06/white-sand-of-the-desert.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1440;s:4:"file";s:37:"2018/06/white-sand-of-the-desert.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:37:"white-sand-of-the-desert-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:38:"white-sand-of-the-desert-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>winter-outdoor</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/winter-outdoor/winter-outdoor/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/winter-outdoor/winter-outdoor/</link>
 		<pubDate>Sat, 30 Jun 2018 13:22:30 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/winter-outdoor.jpg</guid>
@@ -664,19 +668,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/winter-outdoor.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/winter-outdoor.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/winter-outdoor.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/winter-outdoor.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:26:"2018/06/winter-outdoor.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"winter-outdoor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"winter-outdoor-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"winter-outdoor-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"winter-outdoor-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:26:"winter-outdoor-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:27:"winter-outdoor-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:27:"winter-outdoor-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:27:"winter-outdoor-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:26:"2018/06/winter-outdoor.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"winter-outdoor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"winter-outdoor-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"winter-outdoor-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"winter-outdoor-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:26:"winter-outdoor-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:27:"winter-outdoor-1000x563.jpg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:27:"winter-outdoor-1920x780.jpg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:27:"winter-outdoor-1920x500.jpg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>rio-de-janeiro</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/beautiful-rio-de-janeiro/rio-de-janeiro/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/beautiful-rio-de-janeiro/rio-de-janeiro/</link>
 		<pubDate>Sat, 30 Jun 2018 13:26:20 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/rio-de-janeiro.jpeg</guid>
@@ -695,19 +699,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/rio-de-janeiro.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/rio-de-janeiro.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/rio-de-janeiro.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/rio-de-janeiro.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1279;s:4:"file";s:27:"2018/06/rio-de-janeiro.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"rio-de-janeiro-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"rio-de-janeiro-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"rio-de-janeiro-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:28:"rio-de-janeiro-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:27:"rio-de-janeiro-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:28:"rio-de-janeiro-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:28:"rio-de-janeiro-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:28:"rio-de-janeiro-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1279;s:4:"file";s:27:"2018/06/rio-de-janeiro.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"rio-de-janeiro-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"rio-de-janeiro-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"rio-de-janeiro-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:28:"rio-de-janeiro-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:27:"rio-de-janeiro-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:28:"rio-de-janeiro-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:28:"rio-de-janeiro-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:28:"rio-de-janeiro-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>evening</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/charming-evening-field/evening/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/charming-evening-field/evening/</link>
 		<pubDate>Sat, 30 Jun 2018 13:31:06 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/evening.jpeg</guid>
@@ -726,19 +730,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/evening.jpeg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/06/evening.jpeg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://stackthemesdemo.com/themes/bstone/bst-blog/wp-content/uploads/sites/3/2018/06/evening.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/06/evening.jpeg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:20:"2018/06/evening.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"evening-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"evening-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"evening-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"evening-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:20:"evening-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:21:"evening-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:21:"evening-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:21:"evening-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:20:"2018/06/evening.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"evening-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"evening-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"evening-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"evening-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-small";a:4:{s:4:"file";s:20:"evening-700x450.jpeg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-medium";a:4:{s:4:"file";s:21:"evening-1000x563.jpeg";s:5:"width";i:1000;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:12:"bstone-large";a:4:{s:4:"file";s:21:"evening-1920x780.jpeg";s:5:"width";i:1920;s:6:"height";i:780;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bstone-banner";a:4:{s:4:"file";s:21:"evening-1920x500.jpeg";s:5:"width";i:1920;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Sample Page</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/sample-page/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/sample-page/</link>
 		<pubDate>Mon, 18 Jun 2018 13:17:22 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?page_id=2</guid>
@@ -765,14 +769,14 @@ As a new WordPress user, you should go to <a href="http://stackthemesdemo.com/th
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Home</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/home/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/home/</link>
 		<pubDate>Wed, 25 Apr 2018 10:59:55 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=14</guid>
@@ -791,43 +795,43 @@ As a new WordPress user, you should go to <a href="http://stackthemesdemo.com/th
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://stackthemesdemo.com/themes/bstone/bst-blog/]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title></title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/about/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/about/</link>
 		<pubDate>Wed, 25 Apr 2018 10:59:55 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=15</guid>
@@ -846,43 +850,43 @@ As a new WordPress user, you should go to <a href="http://stackthemesdemo.com/th
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[203]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Staying Somehow Patient</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/staying-somehow-patient/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/staying-somehow-patient/</link>
 		<pubDate>Wed, 25 Apr 2018 12:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=37</guid>
@@ -909,25 +913,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue purus, vestib
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[98]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[98]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>How an Island Forms in River</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-an-island-forms-in-river/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-an-island-forms-in-river/</link>
 		<pubDate>Wed, 25 Apr 2018 12:14:36 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=44</guid>
@@ -954,29 +958,29 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[97]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[97]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[how-an-island-forms-in-river-and-stones]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[how-an-island-forms-in-river-and-stones]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>How Music Became The Love of my Life</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-music-became-the-love-of-my-life/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/how-music-became-the-love-of-my-life/</link>
 		<pubDate>Wed, 25 Apr 2018 12:20:42 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=48</guid>
@@ -1003,33 +1007,33 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
+										<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
 		<category domain="post_tag" nicename="entertainment"><![CDATA[Entertainment]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[409]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[409]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title></title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/51/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/51/</link>
 		<pubDate>Wed, 25 Apr 2018 12:21:48 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=51</guid>
@@ -1048,43 +1052,43 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title></title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/52/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/52/</link>
 		<pubDate>Wed, 25 Apr 2018 12:21:48 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=52</guid>
@@ -1103,43 +1107,43 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title></title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/53/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/53/</link>
 		<pubDate>Wed, 25 Apr 2018 12:21:48 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=53</guid>
@@ -1158,43 +1162,43 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Golden Snow Land</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/golden-snow-land/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/25/golden-snow-land/</link>
 		<pubDate>Wed, 25 Apr 2018 12:25:48 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=55</guid>
@@ -1226,32 +1230,32 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="snow"><![CDATA[snow]]></category>
+										<category domain="post_tag" nicename="snow"><![CDATA[snow]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[411]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[411]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>bstone</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/05/21/bstone/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/05/21/bstone/</link>
 		<pubDate>Mon, 21 May 2018 10:47:32 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/index.php/2018/05/21/bstone/</guid>
@@ -1328,10 +1332,10 @@ footer aside .bst-social-links a:last-child {
 		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
+														</item>
+					<item>
 		<title>Going With The Flow</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/24/going-with-the-flow/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/04/24/going-with-the-flow/</link>
 		<pubDate>Tue, 24 Apr 2018 14:29:11 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?p=1</guid>
@@ -1358,28 +1362,28 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[99]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>About</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/sample-page-2/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/sample-page-2/</link>
 		<pubDate>Tue, 24 Apr 2018 14:29:11 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/blog1/?page_id=2</guid>
@@ -1408,26 +1412,26 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Single Post</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/24/single-post/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/24/single-post/</link>
 		<pubDate>Sun, 24 Jun 2018 17:49:39 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=227</guid>
@@ -1446,43 +1450,43 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[44]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Contact Us</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/contact-us/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/contact-us/</link>
 		<pubDate>Thu, 28 Jun 2018 14:19:07 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?page_id=271</guid>
@@ -1505,26 +1509,26 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title></title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/28/275/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/28/275/</link>
 		<pubDate>Thu, 28 Jun 2018 14:19:58 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=275</guid>
@@ -1543,43 +1547,43 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[271]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[271]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>The Great Niagara Falls</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/the-great-niagara-falls/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/the-great-niagara-falls/</link>
 		<pubDate>Sat, 30 Jun 2018 12:44:09 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=412</guid>
@@ -1611,32 +1615,32 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
+										<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
 		<category domain="post_tag" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[413]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[413]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Cliff Sunset Sea View</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/cliff-sunset-sea-view/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/cliff-sunset-sea-view/</link>
 		<pubDate>Sat, 30 Jun 2018 13:07:35 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=423</guid>
@@ -1668,32 +1672,32 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="sea-view"><![CDATA[Sea View]]></category>
+										<category domain="post_tag" nicename="sea-view"><![CDATA[Sea View]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[424]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[424]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Boat Trip to Mediterranean</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/boat-trip-to-mediterranean/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/boat-trip-to-mediterranean/</link>
 		<pubDate>Sat, 30 Jun 2018 13:19:59 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=429</guid>
@@ -1725,32 +1729,32 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="boat-trip"><![CDATA[Boat Trip]]></category>
+										<category domain="post_tag" nicename="boat-trip"><![CDATA[Boat Trip]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[431]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[431]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>White Sand of The Desert</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/white-sand-of-the-desert/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/white-sand-of-the-desert/</link>
 		<pubDate>Sat, 30 Jun 2018 13:22:07 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=430</guid>
@@ -1782,33 +1786,33 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="desert"><![CDATA[Desert]]></category>
+										<category domain="post_tag" nicename="desert"><![CDATA[Desert]]></category>
 		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[434]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[434]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Contact Form</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/?post_type=wpcf7_contact_form&#038;p=272</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/?post_type=wpcf7_contact_form&#038;p=272</link>
 		<pubDate>Thu, 28 Jun 2018 14:19:01 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?post_type=wpcf7_contact_form&#038;p=272</guid>
@@ -1835,7 +1839,7 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 1
 Bstone Blog "[your-subject]"
 [your-name] <wordpress@stackthemesdemo.com>
-nasir.ist@hotmail.com
+support@wpbstone.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -1897,9 +1901,9 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<div>
   <label> Your Name (required)</label> [text* your-name placeholder "Your Name"] 
 </div>
 
@@ -1919,9 +1923,9 @@ The telephone number is invalid.]]></content:encoded>
 [submit "Send"]
 </div>]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:28:"Bstone Blog "[your-subject]"";s:6:"sender";s:43:"[your-name] <wordpress@stackthemesdemo.com>";s:9:"recipient";s:21:"nasir.ist@hotmail.com";s:4:"body";s:199:"From: [your-name] <[your-email]>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:28:"Bstone Blog "[your-subject]"";s:6:"sender";s:43:"[your-name] <wordpress@stackthemesdemo.com>";s:9:"recipient";s:20:"support@wpbstone.com";s:4:"body";s:199:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -1930,30 +1934,30 @@ Message Body:
 -- 
 This e-mail was sent from a contact form on Bstone Blog (http://stackthemesdemo.com/themes/bstone/bst-blog)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"Bstone Blog "[your-subject]"";s:6:"sender";s:43:"Bstone Blog <wordpress@stackthemesdemo.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:141:"Message Body:
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"Bstone Blog "[your-subject]"";s:6:"sender";s:43:"Bstone Blog <wordpress@stackthemesdemo.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:141:"Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Bstone Blog (http://stackthemesdemo.com/themes/bstone/bst-blog)";s:18:"additional_headers";s:31:"Reply-To: nasir.ist@hotmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Winter Outdoor</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/winter-outdoor/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/winter-outdoor/</link>
 		<pubDate>Sat, 30 Jun 2018 13:25:03 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=433</guid>
@@ -1985,33 +1989,33 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="winter-outdoor"><![CDATA[Winter Outdoor]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[436]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[436]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Beautiful Rio de Janeiro</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/beautiful-rio-de-janeiro/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/beautiful-rio-de-janeiro/</link>
 		<pubDate>Sat, 30 Jun 2018 13:26:50 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=437</guid>
@@ -2043,33 +2047,33 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="rio-de-janeiro"><![CDATA[Rio de Janeiro]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[439]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[439]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Charming Evening Field</title>
-		<link>http://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/charming-evening-field/</link>
+		<link>https://stackthemesdemo.com/themes/bstone/bst-blog/2018/06/30/charming-evening-field/</link>
 		<pubDate>Sat, 30 Jun 2018 13:31:13 +0000</pubDate>
 		<dc:creator><![CDATA[arick]]></dc:creator>
 		<guid isPermaLink="false">http://stackthemesdemo.com/themes/bstone/bst-blog/?p=442</guid>
@@ -2101,28 +2105,29 @@ Mauris rutrum vitae eros eu pharetra. Sed commodo tellus sapien, nec dictum diam
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="evening"><![CDATA[Evening]]></category>
+										<category domain="post_tag" nicename="evening"><![CDATA[Evening]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[443]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[443]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+				</channel>
 </rss>
+	
